@@ -1,8 +1,6 @@
 ### Water Potability Measure
 
-
-
-
+![image](https://github.com/MainakRepositor/Water-Potability/assets/64016811/353dac9c-04c2-4d99-82ea-c117475cbf4d)
 
 ### Idea: 
 Building an application that can predict the quality of water by indicating the highly relevant factors. 
